@@ -1,0 +1,7 @@
+2021-01-05,13:37:00.432435,created,D:/Documents/PITON/Logging test folder/Dummy\eicar.com
+2021-01-05,13:37:00.436423,"ERROR MALICIOUS ""lstat() failed: No such file or directory.""",D:\Documents\PITON\Logging test folder\Dummy\eicar.com
+2021-01-05,13:37:20.479441,deleted,D:/Documents/PITON/Logging test folder/Dummy\eicar.com
+2021-01-05,13:37:20.479441,created,D:/Documents/PITON/Logging test folder/Dummy\Unconfirmed 931258.crdownload
+2021-01-05,13:37:20.482444,"ERROR MALICIOUS ""lstat() failed: No such file or directory.""",D:\Documents\PITON\Logging test folder\Dummy\Unconfirmed 931258.crdownload
+2021-01-05,13:37:40.507965,moved,D:/Documents/PITON/Logging test folder/Dummy\Unconfirmed 931258.crdownload
+2021-01-05,13:37:40.508962,modified,D:/Documents/PITON/Logging test folder/Dummy\eicar.com
